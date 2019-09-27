@@ -11,9 +11,9 @@ see github user- planetoftheweb/angular repo..
 5. Run `> gulp` to start live preview server. If gulp didn't start server then 
     run `> node ./node_modules/gulp/bin/gulp.js
 
-install node js
-dont temper package.json,package-lock.json
-run npm install
+install node js,
+dont temper package.json,package-lock.json,
+run npm install,
 run gulp file gulpfile.js by node ./node_modules/gulp/bin/gulp.js
 
 
