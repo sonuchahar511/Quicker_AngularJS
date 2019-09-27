@@ -9,7 +9,7 @@ see github user- planetoftheweb/angular repo..
 2. Clone this repository into your local machine using Gitbash `> git clone CLONEURL`
 3. CD to the folder `cd FOLDERNAME`
 4. Run `> npm install` to install the project dependencies
-5. Run `> gulp` to start live preview server. If gulp didn't start server then <br>
+5. Run `> gulp` to start live preview server. If gulp didn't start server then
    Run `> node ./node_modules/gulp/bin/gulp.js`
 
 install node js,
