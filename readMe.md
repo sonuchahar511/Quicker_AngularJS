@@ -1,6 +1,7 @@
+## Dynamic Search Angular JS App
 see github user- planetoftheweb/angular repo..
 
-## Installing
+## Installation Instructions
 1. Make sure you have these installed
 	- [node.js](http://nodejs.org/)
 	- [git](http://git-scm.com/)
