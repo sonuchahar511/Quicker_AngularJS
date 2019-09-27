@@ -10,7 +10,7 @@ see github user- planetoftheweb/angular repo..
 3. CD to the folder `cd FOLDERNAME`
 4. Run `> npm install` to install the project dependencies
 5. Run `> gulp` to start live preview server. If gulp didn't start server then <br>
-    run `> node ./node_modules/gulp/bin/gulp.js`
+   Run `> node ./node_modules/gulp/bin/gulp.js`
 
 install node js,
 dont temper package.json,package-lock.json,
